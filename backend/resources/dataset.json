@@ -1,0 +1,2570 @@
+{
+  "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska",
+  "provozovatel": {
+    "typ": "Orgán veřejné moci",
+    "ičo": "00248266",
+    "identifikátor_ovm": "00248266"
+  },
+  "stránka": "https://portal.mesto-humpolec.cz/portal/deska.html",
+  "typ": "Úřední deska",
+  "informace": [
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "22718-2023_Schválený_závěrečný_účet_MĚSTA_HUMPOLEC_za_rok_2022_-_zveřejnění_127_2023_sign.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=56329&id_priloha=2296901"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Schválený_závěrečný_účet_2022_MĚSTO_HUMPOLEC__web_14072023.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=56329&id_priloha=2296902"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1153-56329",
+      "relevantní_do": {
+        "datum": "2024-07-31",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "Schválený závěrečný účet MĚSTA HUMPOLEC za rok 2022 - zveřejnění 14/7 2023"
+      },
+      "vyvěšení": {
+        "datum": "2023-07-14",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/22718/2023/Ul",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Ekonomický odbor",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=56329",
+      "název": {
+        "cs": "Schválený závěrečný účet MĚSTA HUMPOLEC za rok 2022 - zveřejnění 14/7 2023"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "23781-2023_Město_Humpolec_-_Rozpočtová_opatření_č._6_7_8_2023_-_zveřejnění_sign.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=56389&id_priloha=2301380"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Město_Humpolec_Rozpočtové_opatření_č_6_2023_web.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=56389&id_priloha=2301377"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Město_Humpolec_Rozpočtové_opatření_č_7_2023_web.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=56389&id_priloha=2301378"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Město_Humpolec_Rozpočtové_opatření_č_8_2023_web.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=56389&id_priloha=2301379"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1154-56389",
+      "relevantní_do": {
+        "datum": "2024-12-06",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-03-31",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/23781/2023/Ul",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Ekonomický odbor",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=56389",
+      "název": {
+        "cs": "Město Humpolec - Rozpočtová opatření č. 6,7,8/2023 - zveřejnění"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Vyhlášení_dotačních_programů_2024_SPORT.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=57269&id_priloha=2341601"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1155-57269",
+      "relevantní_do": {
+        "datum": "2024-09-30",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2023-10-02",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/30497/2023/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=57269",
+      "název": {
+        "cs": "Zveřejnění vyhlášení dotačního programu A - pro oblast tělovýchovy a sportu pro rok 2024"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Vyhlášení_dotačních_programů_2024_-_program_B_C_D.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=57270&id_priloha=2341602"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1156-57270",
+      "relevantní_do": {
+        "datum": "2024-09-30",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2023-10-02",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/30507/2023/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=57270",
+      "název": {
+        "cs": "Zveřejnění vyhlášení dotačních programů B, C, D pro rok 2024"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Návrh_střednědobého_výhledu_rozpočtu_DSO_SOMPO_2025-2027.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=57909&id_priloha=2363719"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Návrh_rozpočtu_DSO_SOMPO_2024.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=57909&id_priloha=2363720"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1157-57909",
+      "relevantní_do": {
+        "datum": "2024-11-06",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2023-11-06",
+        "typ": "Časový okamžik"
+      },
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=57909",
+      "název": {
+        "cs": "Žádost o zveřejnění návrhu rozpočtu na rok 2024, návrhu střednědobého výhledu rozpočtu na 2025-2027"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Schválený_rozpočet_na_rok_2024_DSO_SOMPO.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=58509&id_priloha=2445070"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Střednědobý_výhled_rozpočtu_DSO_SOMPO_na_roky_2025-2027.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=58509&id_priloha=2445071"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1158-58509",
+      "relevantní_do": {
+        "datum": "2024-12-31",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2023-12-20",
+        "typ": "Časový okamžik"
+      },
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=58509",
+      "název": {
+        "cs": "Žádost o zveřejnění informací týkajících se schváleného rozpočtu na rok 2024, střednědobého výhledu"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "7250-2024_Schválený_rozpočet_Města_Humpolce_na_rok_2024_-_zveřejnění.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=59449&id_priloha=2496964"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Rozpočet_2024_zveřejnění_UD.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=59449&id_priloha=2496965"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1159-59449",
+      "relevantní_do": {
+        "datum": "2025-03-16",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-03-01",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/7250/2024/Ka",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=59449",
+      "název": {
+        "cs": "Schválený rozpočet Města Humpolce na rok 2024 - zveřejnění na úřední desce"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "SMF-KM-MU-C24030713190.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=59549&id_priloha=2501757"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1160-59549",
+      "relevantní_do": {
+        "datum": "2024-06-09",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-03-07",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/7979/2024/Fa",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=59549",
+      "název": {
+        "cs": "Informace a žádost k zajištění voleb do Evropského parlamentu"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "9730-2024_Schválený_střednědobý_výhled_rozpočtu_města_Humpolce_na_roky_2025-2026_sign.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=59729&id_priloha=2513069"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Schválený_střednědobý_výhled_rozpočtu_města_Humpolec_na_roky__2025_-_2026__UD.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=59729&id_priloha=2513071"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1161-59729",
+      "relevantní_do": {
+        "datum": "2025-04-30",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-03-22",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9730/2024/Ka",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=59729",
+      "název": {
+        "cs": "Schválený střednědobý výhled rozpočtu města Humpolce na roky 2025-2026"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "10941-2024_Informace_o_počtu_a_sídlech_volebních_okrsů_sign.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=59949&id_priloha=2520870"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1162-59949",
+      "relevantní_do": {
+        "datum": "2024-06-08",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-04",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/10941/2024/Fa",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=59949",
+      "název": {
+        "cs": "Informace o počtu a sídlech volebních okrsků"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "10943-2024_Stanovení_minimálního_počtu_členů_okrskovýćh_volebních_komisí_sign.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=59950&id_priloha=2520878"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1163-59950",
+      "relevantní_do": {
+        "datum": "2024-06-08",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-04",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/10943/2024/Fa",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=59950",
+      "název": {
+        "cs": "Stanovení minimálního počtu členů okrskových volebních komisí"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_03_2024_JK_ČZA.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60269&id_priloha=2531253"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1165-60269",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/7760/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60269",
+      "název": {
+        "cs": "03/2024_Veřejnoprávní smlouva_JK ČZA"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "12900-2024_Pozvánka_na_první_zasedání_členů_okrskových_volebních_komisí_pro_volby_do_Evropského_parlamentu_sign.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60289&id_priloha=2531287"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1166-60289",
+      "relevantní_do": {
+        "datum": "2024-06-08",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-17",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/12900/2024/Fa",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60289",
+      "název": {
+        "cs": "Pozvánka na první zasedání členů okrskových volebních komisí pro volby do Evropského parlamentu"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_04_2024_Michaela_Vyvadilová.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60290&id_priloha=2531293"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1167-60290",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/7785/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60290",
+      "název": {
+        "cs": "04/2024_Veřejnoprávní smlouva_Vyvadilová Michaela"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_05_2024_Spolek_přátel_Krasoňova.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60291&id_priloha=2531300"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1168-60291",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/7796/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60291",
+      "název": {
+        "cs": "05/2024_Veřejnoprávní smlouva_Spolek přátel Krasoňova"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_07_2024_Český_rybářský_svaz.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60292&id_priloha=2531306"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1169-60292",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/7924/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60292",
+      "název": {
+        "cs": "07/2024_Veřejnoprávní smlouva_Český rybářský svaz"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_09_2024_SH_ČMS_Hněvkovice.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60293&id_priloha=2531324"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1170-60293",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/7981/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60293",
+      "název": {
+        "cs": "09_Veřejnoprávní smlouva_SH ČMS Hněvkovice"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_10_2024_Endorfun.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60294&id_priloha=2531356"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1171-60294",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/7989/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60294",
+      "název": {
+        "cs": "10_Veřejnoprávní smlouva_Endorfun"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_11_2024_Vít_Prokůpek.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60295&id_priloha=2531368"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1172-60295",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8005/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60295",
+      "název": {
+        "cs": "11/2024_Veřejnoprávní smlouva_Vít Prokůpek"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_12_2024_Pavel_Prokůpek.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60296&id_priloha=2531390"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1173-60296",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8008/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60296",
+      "název": {
+        "cs": "12/2024_Veřejnoprávní smlouva_Pavel Prokůpek"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_13_2024_David_Marek.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60297&id_priloha=2531394"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1174-60297",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8014/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60297",
+      "název": {
+        "cs": "13/2024_Veřejnoprávní smlouva_David Marek"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_14_2024_Jan_Macháček.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60298&id_priloha=2531402"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1175-60298",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8025/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60298",
+      "název": {
+        "cs": "14/2024_Veřejnoprávní smlouva_Jan Macháček"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_15_2024_TAJV.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60299&id_priloha=2531425"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1176-60299",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8026/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60299",
+      "název": {
+        "cs": "15/2024_Veřejnoprávní smlouva_TAJV"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_16_2024_Dominik_Šimáček.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60300&id_priloha=2531429"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1177-60300",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8041/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60300",
+      "název": {
+        "cs": "16/2024_Veřejnoprávní smlouva_Dominik Šimáček"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_18_2024_Basketbalový_klub_3x3_Humpolec.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60301&id_priloha=2531433"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1178-60301",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8080/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60301",
+      "název": {
+        "cs": "18/2024_Veřejnoprávní smlouva_Basketbalový klub 3x3 Humpolec"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_19_2024_Martin_Bárta.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60302&id_priloha=2531436"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1179-60302",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8145/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60302",
+      "název": {
+        "cs": "19/2024_Veřejnoprávní smlouva_Martin Bárta"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_20_2024_Anna_Havlová.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60304&id_priloha=2531462"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1180-60304",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8147/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60304",
+      "název": {
+        "cs": "20/2024_Veřejnoprávní smlouva_Anna Havlová"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_21_2024_Matěj_Sukdolák.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60305&id_priloha=2531476"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1181-60305",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8149/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60305",
+      "název": {
+        "cs": "21/2024_Veřejnoprávní smlouva_Matěj Sukdolák"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_22_2024_Zdeněk_Škrabánek.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60306&id_priloha=2531479"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1182-60306",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8159/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60306",
+      "název": {
+        "cs": "22/2024_Veřejnoprávní smlouva_Mgr. Zdeněk Škrabánek"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_23_2024_Radka_Zabloudilová.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60307&id_priloha=2531507"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1183-60307",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8164/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60307",
+      "název": {
+        "cs": "23/2024_Veřejnoprávní smlouva_Radka Zabloudilová"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_24_2024_Lukáš_Jirák.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60308&id_priloha=2531517"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1184-60308",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8169/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60308",
+      "název": {
+        "cs": "24/2024_Veřejnoprávní smlouva_Lukáš Jirák"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_28_2024_Svařený_sáně.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60309&id_priloha=2531567"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1185-60309",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8237/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60309",
+      "název": {
+        "cs": "28/2024_Veřejnoprávní smlouva_Svařený sáně"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_33_2024_MŠ_a_ZŠ_BAMBI.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60310&id_priloha=2531571"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1186-60310",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8826/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60310",
+      "název": {
+        "cs": "33/2024_Veřejnoprávní smlouva_MŠ a ZŠ Bambi"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_34_2024_Česká_zemědělská_akademie.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60311&id_priloha=2531575"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1187-60311",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8829/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60311",
+      "název": {
+        "cs": "34/2024_Veřejnoprávní smlouva_Česká zemědělská akademie"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_36_2024_SDH_Kletečná.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60312&id_priloha=2531579"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1188-60312",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8851/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60312",
+      "název": {
+        "cs": "36/2024_Veřejnoprávní smlouva_Sbor dobrovolných hasičů Kletečná"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_38_2024_Myslivecký_spolek_Petrovice.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60313&id_priloha=2531592"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1189-60313",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8862/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60313",
+      "název": {
+        "cs": "38/2024_Veřejnoprávní smlouva_Myslivecký spolek Vysočina Petrovice"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_40_2024_Římskokatolická_farnost.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60314&id_priloha=2531597"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1190-60314",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8881/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60314",
+      "název": {
+        "cs": "40/2024_Veřejnoprávní smlouva_Římskokatolická farnost - děkanství Humpolec"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_42_2024_Miroslava_Časarová.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60329&id_priloha=2531705"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1191-60329",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8911/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60329",
+      "název": {
+        "cs": "42/2024_Veřejnoprávní smlouiva_Mgr. Miroslava Časarová"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_44_2024_Vysočina_Petrovice.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60330&id_priloha=2531710"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1192-60330",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8963/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60330",
+      "název": {
+        "cs": "44/2024_Veřejnoprávní smlouva_Vysočina Petrovice"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_46_2024_Český_svaz_chovatelů.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60331&id_priloha=2531712"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1193-60331",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8966/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60331",
+      "název": {
+        "cs": "46/2024_Veřejnoprávní smlouva_Český svaz chovatelů"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_47_2024_Turisté_Humpolec.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60332&id_priloha=2531714"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1194-60332",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8982/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60332",
+      "název": {
+        "cs": "47/2024_Veřejnoprávní smlouva_Turisté Humpolec"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_48_2024_Svaz_tělesně_postižených.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60333&id_priloha=2531730"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1195-60333",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8987/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60333",
+      "název": {
+        "cs": "48/2024_Veřejnoprávní smlouva_Svaz tělesně postižených"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_49_2024_Český_rybářský_svaz.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60334&id_priloha=2531752"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1196-60334",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/8994/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60334",
+      "název": {
+        "cs": "49/2024_Veřejnoprávní smlouva_Český rybářský svaz Humpolec"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_50_2024_Libor_Jirák.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60349&id_priloha=2531797"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1197-60349",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9005/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60349",
+      "název": {
+        "cs": "50/2024_Veřejnoprávní smlouva_Libor Jirák"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_52_2024_TJ_Krasoňov.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60350&id_priloha=2531803"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1198-60350",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9017/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60350",
+      "název": {
+        "cs": "52/2024_Veřejnoprávní smlouva_TJ Krasoňov"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_53_2024_Alena_Krejčí.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60351&id_priloha=2531810"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1199-60351",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9018/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60351",
+      "název": {
+        "cs": "53/2024_Veřejnoprávní smlouva_Bc. Alena Krejčí"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_55_2024_Petr_Boček.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60352&id_priloha=2531812"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1200-60352",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9104/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60352",
+      "název": {
+        "cs": "55/2024_Veřejnoprávní smlouva_Petr Boček"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_57_2024_Patricie_Hronová.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60353&id_priloha=2531817"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1201-60353",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9128/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60353",
+      "název": {
+        "cs": "57/2024_Veřejnoprávní smlouva_Patricie Hronová"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_58_2024_Klub_veteráni.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60354&id_priloha=2531819"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1202-60354",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9131/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60354",
+      "název": {
+        "cs": "58/2024_Veřejnoprávní smlouva_Klub veteráni Humpolec"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_59_2024_Fokus_Vysočina.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60369&id_priloha=2531970"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1203-60369",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9143/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60369",
+      "název": {
+        "cs": "59/2024_Veřejnoprávní smlouva_FOKUS Vysočina"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_60_2024_Kamil_Kotlík.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60370&id_priloha=2531975"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1204-60370",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9150/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60370",
+      "název": {
+        "cs": "60/2024_Veřejnoprávní smlouva_PhDr. Kamil Kotlík, Ph.D."
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_61_2024_Myslivecký_spolek_Humpolec.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60371&id_priloha=2531980"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1205-60371",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9161/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60371",
+      "název": {
+        "cs": "61/2024_Veřejnoprávní smlouva_Myslivecký spolek Humpolec"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_62_2024_Vzdělávání_pro_budoucnost.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60372&id_priloha=2531993"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1206-60372",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9170/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60372",
+      "název": {
+        "cs": "62/2024_Veřejnoprávní smlouva_Vzdělávání pro budoucnost"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_64_2024_Petra_Polidarová.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60373&id_priloha=2532011"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1207-60373",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9183/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60373",
+      "název": {
+        "cs": "64/2024_Veřejnoprávní smlouva_Petra Polidarová"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_65_2024_Miloš_Horčic.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60389&id_priloha=2532334"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1208-60389",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9186/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60389",
+      "název": {
+        "cs": "65/2024_Veřejnoprávní smlouva_Miloš Horčic"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_66_2024_Jiří_Kocman.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60390&id_priloha=2532338"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1209-60390",
+      "relevantní_do": {
+        "datum": "2027-04-18",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-18",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9213/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60390",
+      "název": {
+        "cs": "66/2024_Veřejnoprávní smlouva_Jiří Kocman"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Informace_o_registraci_kandidátních_listin_a_adresách_zmocněnců.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60449&id_priloha=2536617"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1210-60449",
+      "relevantní_do": {
+        "datum": "2024-06-08",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "Informace o registraci kandidátních listin a adresách zmocněnců"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-23",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "KUJI  40414/2024",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60449",
+      "název": {
+        "cs": "Informace o registraci kandidátních listin a adresách zmocněnců"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Anonymizovaná_Veřejnoprávní_smlouva_63_2024_Vzdělávací_centrum_Lužická.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60469&id_priloha=2537127"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1211-60469",
+      "relevantní_do": {
+        "datum": "2027-04-24",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-24",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/9182/2024/Bu",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60469",
+      "název": {
+        "cs": "52/2024_Veřejnoprávní smlouva_Vzdělávací a rodinné centrum Lužická"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "00709759_dne_0515_2400659155.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60509&id_priloha=2538792"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1212-60509",
+      "relevantní_do": {
+        "datum": "2024-06-03",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "Veřejná vyhláška, žádost o doručení veřejnou vyhláškou"
+      },
+      "vyvěšení": {
+        "datum": "2024-04-25",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "659155/24/2900-11420-709759",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60509",
+      "název": {
+        "cs": "Veřejná vyhláška, žádost o doručení veřejnou vyhláškou"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Opatření_přechodná_úprava.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60711&id_priloha=2549718"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "DIO.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60711&id_priloha=2549719"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1224-60711",
+      "relevantní_do": {
+        "datum": "2024-05-28",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-13",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/15643/2024/Rz",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor dopravy a silničního hospodářství",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60711",
+      "název": {
+        "cs": "Veřejná vyhláška - OOP - stanovení přechodné úpravy provozu na PK umístěním DZ"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "02_Veřejná_vyhláška_A10ZÚR.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60712&id_priloha=2550799"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1225-60712",
+      "relevantní_do": {
+        "datum": "2024-05-28",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "02_Veřejná_vyhláška_A10ZÚR"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-13",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "KUJI  46293/2024",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60712",
+      "název": {
+        "cs": "02_Veřejná_vyhláška_A10ZÚR - Aktualizace č. 10 Zásad územního rozvoje Kraje Vysočinaa Vyhodnocení vl"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Výběrové_řizení_na_zaměstnace_-_odbor_vnitřních_věcí_14.5.2024.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60713&id_priloha=2550926"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1226-60713",
+      "relevantní_do": {
+        "datum": "2024-05-29",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "OZNÁMENÍ O VYHLÁŠENÍ VÝBĚROVÉHO ŘÍZENÍ úředník / úřednice pro zajišťování výkonu správních činností na úseku evidence obyvatel, cestovních dokladů a občanských průkazů v rámci Odboru vnitřních věcí MěÚ Humpolec"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-14",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/15891/2024/Sa",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení právní podpory a přestupkového řízení",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60713",
+      "název": {
+        "cs": "OZNÁMENÍ O VYHLÁŠENÍ VÝBĚROVÉHO ŘÍZENÍ úředník / úřednice ev.obyvatel, cest.doklady, občanské průkaz"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "OOP_Dzp_I-34-II_129_Okružní_ul._Humpolec-3.etapa.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60714&id_priloha=2552168"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "1_DIO_II_129_HUMPOLEC_UL_OKRUŽNÍ_SITUACE_OBJÍZDNÝCH_TRAS_.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60714&id_priloha=2552169"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "2_DIO_II_129_HUMPOLEC_UL_OKRUŽNÍ_ETAPA_Č_3_.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60714&id_priloha=2552170"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1302-60714",
+      "relevantní_do": {
+        "datum": "2024-05-30",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "OOP-PDz-II/129 Humpolec, ul. Okružní - etapa č. 3"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-15",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "KUJI  44077/2024",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60714",
+      "název": {
+        "cs": "OOP-PDz-II/129 Humpolec, ul. Okružní - etapa č. 3"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Výběrové_řízení_na_zaměstnance_-_přestupky.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60715&id_priloha=2553514"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1303-60715",
+      "relevantní_do": {
+        "datum": "2024-05-31",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "OZNÁMENÍ O VYHLÁŠENÍ VÝBĚROVÉHO ŘÍZENÍ úředník / úřednice pro zajišťování výkonu správních činností při přestupkovém řízení ve věcech bezpečnosti a plynulosti silničního provozu a správních řízení souvisejících v rámci Oddělení právní podpory a přestupkov"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-16",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/16291/2024/Sa",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení právní podpory a přestupkového řízení",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60715",
+      "název": {
+        "cs": "OZNÁMENÍ O VYHLÁŠENÍ VÝBĚROVÉHO ŘÍZENÍ úředník / úřednice přestupky doprava"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "eon_oznameni.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60717&id_priloha=2554320"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1352-60717",
+      "relevantní_do": {
+        "datum": "2024-06-11",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "Oznámení o přerušení dodávky elektrické energie"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-17",
+        "typ": "Časový okamžik"
+      },
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60717",
+      "název": {
+        "cs": "Oznámení o přerušení dodávky elektrické energie - část obce Sedlice"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "opatření_přechodná.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60716&id_priloha=2553996"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "DIO_-_Zábor_-_FabrikaHotel_Humpolec_-30.5.2024.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60716&id_priloha=2553997"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1353-60716",
+      "relevantní_do": {
+        "datum": "2024-06-01",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-17",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/15772/2024/Jt",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor dopravy a silničního hospodářství",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60716",
+      "název": {
+        "cs": "VV OOP stanovení PUP MK Školní, Žižkova - MHA, parkoviště"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Návrh_Závěrečného_účtu_Svazku_obcí_mikroregionu_Zálesí_a_Zpráva_o_výsledku_přezkoumání_hospodaření_Svazku_obcí_mikroregionu_Zálesí_za_rok_2023_anonymizovaný.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60719&id_priloha=2555912"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1354-60719",
+      "relevantní_do": {
+        "datum": "2024-06-04",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-20",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/16659/2024/Au",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60719",
+      "název": {
+        "cs": "Mikroregion Zálesí: návrh závěrečného účtu za rok 2023 a zpráva o výsledku přezkoumání hospodaření"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Opatření_přechodná_úprava.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60720&id_priloha=2556044"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "DIO.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60720&id_priloha=2556045"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1355-60720",
+      "relevantní_do": {
+        "datum": "2024-06-04",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-20",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/16680/2024/Rz",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor dopravy a silničního hospodářství",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60720",
+      "název": {
+        "cs": "Veřejná vyhláška - OOP - stanovení přechodné úpravy provozu na PK umístěním DZ - silnice č. II/129"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "16945-2024_Pronájem_prostor_-čp._245.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60723&id_priloha=2558785"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1356-60723",
+      "relevantní_do": {
+        "datum": "2024-06-21",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-22",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/16945/2024/Koc",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení správy majetku",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60723",
+      "název": {
+        "cs": "Pronájem prostor -čp. 245"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "16931-2024_Přidělení_bytů_-_2x_-_Hálkova_1039_Komenského_1353.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60722&id_priloha=2558784"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1357-60722",
+      "relevantní_do": {
+        "datum": "2024-06-06",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-22",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/16931/2024/Koc",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení správy majetku",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60722",
+      "název": {
+        "cs": "Přidělení bytů - 2x - Hálkova 1039, Komenského 1353"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "16943-2024_Zveřejnění_rozpočtového_opatření_č._12024_sign.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60724&id_priloha=2558927"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Rozpočtové_opatření_č.1-2024.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60724&id_priloha=2558926"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1358-60724",
+      "relevantní_do": {
+        "datum": "2025-03-31",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-22",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/16943/2024/Ka",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60724",
+      "název": {
+        "cs": "Město Humpolec - zveřejnění rozpočtového opatření č. 1/2024"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "16947-2024_Město_Humpolec_-_zveřejnění_rozpočtových_opatření_č.234_sign.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60725&id_priloha=2558943"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Rozpočtové_opatření_č.2-2024.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60725&id_priloha=2558940"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Rozpočtové_optatření_č.3-2024.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60725&id_priloha=2558941"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Rozpočtové_opatření_č.4-2024.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60725&id_priloha=2558942"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1359-60725",
+      "relevantní_do": {
+        "datum": "2025-03-31",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-22",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/16947/2024/Ka",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení regionálního rozvoje, školství, kultury a sportu",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60725",
+      "název": {
+        "cs": "Město Humpolec - zveřejnění rozpočtových opatření č.2,3,4/2024"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "16543-2024_VV_-_OPAKOVANÉ_VEŘEJNÉ_PROJEDNÁNÍ_NÁVRHU_ZČ1_ÚP_MLADÉ_BŘÍŠTĚ.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60721&id_priloha=2558919"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1360-60721",
+      "relevantní_do": {
+        "datum": "2024-07-04",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-22",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/16543/2024/Ts",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Stavební úřad",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60721",
+      "název": {
+        "cs": "VV - OPAKOVANÉ VEŘEJNÉ PROJEDNÁNÍ NÁVRHU ZČ1 ÚP MLADÉ BŘÍŠTĚ"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "151_24_Oznameni_Humpolec_volby_EP_2024.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60726&id_priloha=2559292"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1361-60726",
+      "relevantní_do": {
+        "datum": "2024-06-08",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-22",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/17028/2024/La",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60726",
+      "název": {
+        "cs": "Oznámení o době a místě konání voleb do Evropského parlamentu"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Výběrové_řízení_na_zaměstnance_-_vedoucí_ekonomického_odboru23.5.2024.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60727&id_priloha=2560628"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1362-60727",
+      "relevantní_do": {
+        "datum": "2024-06-14",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "OZNÁMENÍ O VYHLÁŠENÍ VÝBĚROVÉHO ŘÍZENÍ vedoucí Ekonomického odboru Městského úřadu Humpolec"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-23",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/17176/2024/Sa",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Oddělení právní podpory a přestupkového řízení",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60727",
+      "název": {
+        "cs": "OZNÁMENÍ O VYHLÁŠENÍ VÝBĚROVÉHO ŘÍZENÍ vedoucí Ekonomického odboru Městského úřadu Humpolec"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "04_Veřejná_vyhláška_A10ZÚR_změna_termínu.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60731&id_priloha=2562134"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1363-60731",
+      "relevantní_do": {
+        "datum": "2024-06-08",
+        "typ": "Časový okamžik"
+      },
+      "popis": {
+        "cs": "04_Veřejná_vyhláška_A10ZÚR_změna termínu"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-24",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "KUJI  50369/2024",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor tajemníka MěÚ",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60731",
+      "název": {
+        "cs": "04_Veřejná_vyhláška_A10ZÚR_změna termínu"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "opatření_přechodná.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60730&id_priloha=2561835"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "DIO_-_Lohenice_Svoboda_-_kabel_NN_1030081806.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60730&id_priloha=2561836"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Situační_plánek_D2-016_2023_Lohenice_Svoboda-kabel_NN_NOVY_STAV.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60730&id_priloha=2561837"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1364-60730",
+      "relevantní_do": {
+        "datum": "2024-06-08",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-24",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/17335/2024/Jt",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor dopravy a silničního hospodářství",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60730",
+      "název": {
+        "cs": "VV OOP stanovení PUP - III/12938 Lohenice"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "opatření_přechodná.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60729&id_priloha=2561788"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Schéma_uzavírky_RZ.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60729&id_priloha=2561789"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1365-60729",
+      "relevantní_do": {
+        "datum": "2024-06-08",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-24",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/17332/2024/Jt",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor dopravy a silničního hospodářství",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60729",
+      "název": {
+        "cs": "VV OOP stanovení PUP - uzavírka UK Dvorská"
+      }
+    },
+    {
+      "dokument": [
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "opatření_přechodná.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60728&id_priloha=2561753"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Humpolec_ul.Hradská_I.ETAPA.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60728&id_priloha=2561754"
+        },
+        {
+          "typ": "Digitální objekt",
+          "název": {
+            "cs": "Humpolec_ul.Hradská_II.ETAPA.pdf"
+          },
+          "url": "https://portal.mesto-humpolec.cz/wab/eud/StahniPrilohu.action?id_vyves=60728&id_priloha=2561755"
+        }
+      ],
+      "iri": "https://portal.mesto-humpolec.cz/portal/zdroj/úřední-deska/informace/1366-60728",
+      "relevantní_do": {
+        "datum": "2024-06-08",
+        "typ": "Časový okamžik"
+      },
+      "vyvěšení": {
+        "datum": "2024-05-24",
+        "typ": "Časový okamžik"
+      },
+      "číslo_jednací": "MUHU/17310/2024/Jt",
+      "typ": [
+        "Digitální objekt",
+        "Informace na úřední desce"
+      ],
+      "odbor": "Odbor dopravy a silničního hospodářství",
+      "url": "https://portal.mesto-humpolec.cz/wab/eud/EudDetail.action?id_vyves=60728",
+      "název": {
+        "cs": "VV OOP stanovení PUP - uzavírka Hradská"
+      }
+    }
+  ],
+  "@context": "https://ofn.gov.cz/úřední-desky/2021-07-20/kontexty/úřední-deska.jsonld",
+  "umístění": {
+    "adresa": {
+      "typ": "Adresa"
+    },
+    "typ": "Umístění"
+  }
+}
