@@ -22,28 +22,11 @@ def main():
 
         for row in data:
             tokens = word_tokenize(row)
-
-        # Preprocess the text
-        # Convert to lowercase
-        data = data.lower()
-
-        # Remove punctuation and stopwords
-        tokens = [word for word in tokens if word.isalpha()]
-        stop_words = set(stopwords.words('czech'))  # Specify the Czech stopwords
-        tokens = [word for word in tokens if word not in stop_words]
-
-        # Count the occurrences of each word
-        word_counts = Counter(tokens)
-
-        # Display the most common words
-        most_common_words = word_counts.most_common(10)  # Change the number as needed
-        most_common_words
-
-        # Preprocess the text
-
-        # Convert to lowercase
-
-        # Tokenize the text
+            # stop_words = set(stopwords.words('czech'))  # Specify the Czech stopwords
+            # tokens = [word for word in tokens if word not in stop_words]
+            word_counts = Counter(tokens)
+            most_common_words = word_counts.most_common(10)  # Change the number as needed
+            print(tokens)
 
 if __name__ == "__main__":
     main()
