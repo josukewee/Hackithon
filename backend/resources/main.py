@@ -21,5 +21,6 @@ def main():
     with open('./topics.json', 'w') as f:
         json.dump(topics, f, indent=4)
 
+
 if __name__ == "__main__":
     main()
