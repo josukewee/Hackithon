@@ -8,7 +8,7 @@ type Props = {
 
 export const TopicsTable = ({elements}: React.PropsWithChildren<Props>) => {
 
-    const parentRef = React.useRef()
+    const parentRef = React.useRef(null)
 
     // The virtualizer
     const rowVirtualizer = useVirtualizer({

@@ -25,13 +25,13 @@ function Dashboard() {
 
     const [searchValue, setSearchValue] = React.useState('')
 
-    const handleSearchInput = (event) => {
+    const handleSearchInput = (event:any) => {
         setSearchValue(event.target.value)
     }
 
     const informationToDisplay = useMemo(() => {
             if (data.data) {
-                return data.data.filter((element) => {
+                return data.data.filter((element:any) => {
                         return element['název']['cs'].includes(searchValue)
                     }
                 )
