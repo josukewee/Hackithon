@@ -8,7 +8,7 @@ def main():
 
     topics = []
 
-    with open('./dataset.json', 'r') as f:
+    with open('../app/dataset.json', 'r') as f:
         data = f.read()
         parsed = json.loads(data)
 
