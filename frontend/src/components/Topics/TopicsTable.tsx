@@ -1,6 +1,7 @@
 import React from "react";
 import {Table, TableCaption, TableContainer, Tbody, Td, Th, Thead, Tr} from "@chakra-ui/react";
 import {useVirtualizer} from "@tanstack/react-virtual";
+import {Link} from "@tanstack/react-router";
 
 type Props = {
     elements: any[]
@@ -51,9 +52,12 @@ export const TopicsTable = ({elements}: React.PropsWithChildren<Props>) => {
                             </Td>
                             <Td>
                                 {elements[virtualItem.index]['vyvěšení']['datum']}
-                                {/*{JSON.stringify(element)}*/}
                             </Td>
-                            <Td isNumeric>25.4</Td>
+                            <Td isNumeric>
+                                <Link to={elements[virtualItem.index]['url']}>
+                                    {elements[virtualItem.index]['url']}
+                                </Link>
+                            </Td>
                         </Tr>
                     ))}
                 </Tbody>
