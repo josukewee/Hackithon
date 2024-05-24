@@ -1,8 +1,6 @@
 import { Button, Flex, Icon, useDisclosure } from "@chakra-ui/react"
 import { FaPlus } from "react-icons/fa"
 
-import AddItem from "../Items/AddItem"
-
 interface NavbarProps {
   type: string
 }
@@ -22,7 +20,6 @@ const Navbar = ({ type }: NavbarProps) => {
         >
           <Icon as={FaPlus} /> Add {type}
         </Button>
-        <AddItem isOpen={addItemModal.isOpen} onClose={addItemModal.onClose} />
       </Flex>
     </>
   )

@@ -153,10 +153,10 @@ class Subject(BaseModel):
     type: list[str]
     url: str
     iri: str
-    name: dict[str, str]
+    name: str
     display: dict[str, str]
-    relevant: dict[str, str]
-    document: list[dict[str, str]]
+    relevant: dict[str, str] | bool
+    document: list[dict[str, dict[str, str]]] | None
 
 
 class SubjectsListResponse(BaseModel):

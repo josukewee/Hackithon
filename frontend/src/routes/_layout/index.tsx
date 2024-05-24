@@ -1,23 +1,57 @@
-import { Box, Container, Text, Input } from "@chakra-ui/react"
-import { createFileRoute } from "@tanstack/react-router"
-import React from "react";
+import {Box, Container, Text, Input} from "@chakra-ui/react"
+import {createFileRoute} from "@tanstack/react-router"
+import React, {useMemo} from "react";
+import {useQuery} from "@tanstack/react-query";
+import {TopicsTable} from "../../components/Topics/TopicsTable.tsx";
 
 export const Route = createFileRoute("/_layout/")({
-  component: Dashboard,
+    component: Dashboard,
 })
 
 function Dashboard() {
 
-  return (
-    <>
-      <Container maxW="full">
-        <Box pt={12} m={4}>
-          <Text fontSize="2xl">
-          </Text>
+    const data = useQuery({
+        queryKey: ["items"],
+        queryFn: async () => {
+            const data = await fetch("http://localhost/api/v1/topics/")
 
-          <Input placeholder='Basic usage' />
-        </Box>
-      </Container>
-    </>
-  )
+            if (data.ok) {
+                return await data.json()
+            }
+
+            throw new Error("Failed to fetch data")
+        },
+    })
+
+    const [searchValue, setSearchValue] = React.useState('')
+
+    const handleSearchInput = (event) => {
+        setSearchValue(event.target.value)
+    }
+
+    const informationToDisplay = useMemo(() => {
+            if (data.data) {
+                return data.data.filter((element) => {
+                        return element['název']['cs'].includes(searchValue)
+                    }
+                )
+            }
+        },
+        [data.data, searchValue]
+    )
+
+    return (
+        <>
+            <Container maxW="full">
+                <Box pt={12} m={4}>
+                    <Text fontSize="2xl">
+                    </Text>
+
+                    <Input placeholder='Basic usage' value={searchValue} onInput={handleSearchInput}/>
+
+                    <TopicsTable elements={informationToDisplay || []}/>
+                </Box>
+            </Container>
+        </>
+    )
 }

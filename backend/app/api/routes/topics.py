@@ -1,4 +1,5 @@
 import json
+from functools import cache, lru_cache
 from typing import Any
 
 from fastapi import APIRouter
@@ -9,17 +10,33 @@ from app.models import Subject, SubjectsListResponse
 router = APIRouter()
 
 
-@router.get("/", response_model=Subject)
-def read_topics(
-    session: SessionDep, skip: int = 0, limit: int = 100
-) -> Any:
-
+@lru_cache()
+def get_parsed_dataset():
     data = open('./dataset.json')
     data = json.load(data)
+    return data
 
-    data = [SubjectsListResponse.json(**raw_data) for raw_data in data['informace']]
+
+@router.get("/")
+def read_topics(
+        session: SessionDep, skip: int = 0, limit: int = 100
+) -> Any:
+    parsed_dataset = get_parsed_dataset()
+
+
+    # parsed_topics = [Subject(**dict(
+    #     type=topic['typ'],
+    #     name=topic['název']['cs'],
+    #     url=topic['url'],
+    #     iri=topic['iri'],
+    #     display=topic['vyvěšení'],
+    #     relevant=topic['relevantní_do'],
+    #     document=topic.get('dokument', None)
+    # )) for topic in parsed_dataset['informace']]
+
+    return parsed_dataset['informace']
 
     return SubjectsListResponse(
-        data=data,
-        count=len(data)
+        data=parsed_dataset['informace'],
+        count=len(parsed_dataset['informace'])
     )
