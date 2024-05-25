@@ -15,7 +15,7 @@ export const TopicsTable = ({elements}: React.PropsWithChildren<Props>) => {
     const rowVirtualizer = useVirtualizer({
         count: elements.length,
         getScrollElement: () => parentRef.current!,
-        estimateSize: () => 35,
+        estimateSize: () => 60,
         overscan: 15,
     })
 

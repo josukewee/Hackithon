@@ -2,11 +2,28 @@ import {Box, Container, Text, Input} from "@chakra-ui/react"
 import {createFileRoute} from "@tanstack/react-router"
 import React, {useMemo} from "react";
 import {useQuery} from "@tanstack/react-query";
-import {TopicsTable} from "../../components/Topics/TopicsTable.tsx";
+import {MasonryVerticalVirtualizerVariable} from "../../components/VirtualGrid.tsx";
 
 type CityDetailSearch = {
     url: string
 }
+
+const useDebounce = (value: string, delay: number) => {
+    const [debouncedValue, setDebouncedValue] = React.useState(value)
+
+    React.useEffect(() => {
+        const handler = setTimeout(() => {
+            setDebouncedValue(value)
+        }, delay)
+
+        return () => {
+            clearTimeout(handler)
+        }
+    }, [value, delay])
+
+    return debouncedValue
+}
+
 
 export const Route = createFileRoute("/_layout/city-detail")({
     component: Dashboard,
@@ -41,16 +58,18 @@ function Dashboard() {
         setSearchValue(event.target.value)
     }
 
+    const debouncedValue = useDebounce(searchValue, 200)
+
     const informationToDisplay = useMemo(() => {
         const { informace } = data?.data || {}
             if (informace?.length) {
                 return informace?.filter((element: any) => {
-                        return element['název']['cs'].includes(searchValue)
+                        return element['název']['cs'].includes(debouncedValue)
                     }
                 )
             }
         },
-        [data.data, searchValue]
+        [data.data, debouncedValue]
     )
 
     return (
@@ -62,7 +81,9 @@ function Dashboard() {
 
                     <Input placeholder='Basic usage' value={searchValue} onInput={handleSearchInput}/>
 
-                    <TopicsTable elements={informationToDisplay || []}/>
+                    {!!informationToDisplay?.length && (
+                        <MasonryVerticalVirtualizerVariable rows={informationToDisplay}/>
+                    )}
                 </Box>
             </Container>
         </>
