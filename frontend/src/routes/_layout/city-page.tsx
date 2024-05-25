@@ -1,10 +1,11 @@
-import {Box, Container, Grid, GridItem, Heading, Input} from "@chakra-ui/react";
+import {Box, Container, Input} from "@chakra-ui/react";
 import {createFileRoute} from "@tanstack/react-router";
 import {useQuery} from "@tanstack/react-query";
 import React, {useMemo} from "react";
+import {MapChart} from "../../components/MapComponent.tsx";
 
 async function fetchDatasets() {
-    const query = "{\"query\":\"query { datasets ( limit: 1000 filters: { conformsTo: \\\"https://ofn.gov.cz/úřední-desky/2021-07-20/\\\" } ) { data { iri title { cs } publisher { title { cs } } distribution { accessURL format } } pagination { totalCount } }}\",\"variables\":null}";
+    const query = "{\"query\":\"query { datasets ( limit: 1000 filters: { conformsTo: \\\"https://ofn.gov.cz/úřední-desky/2021-07-20/\\\" } ) { data { iri keyword { cs } title { cs } publisher { title { cs } } distribution { accessURL format } } pagination { totalCount } }}\",\"variables\":null}";
     const response = await fetch("https://data.gov.cz/graphql?", {
         "headers": {
             "accept": "application/json",
@@ -44,7 +45,9 @@ function CityPage() {
             alignItems="center"
             justifyContent="center"
         >
-            <Container maxW="container.md" centerContent>
+            <Container maxW="container.lg" centerContent>
+                <MapChart data={dataToDisplay}/>
+
                 <Input
                     placeholder="Search..."
                     mb={10}
@@ -55,6 +58,7 @@ function CityPage() {
                 />
             </Container>
             <Container maxW="container.lg">
+
                 <Grid templateColumns="repeat(auto-fill, minmax(250px, 1fr))" gap={6}>
                     {/* Example News Items */}
                     {dataToDisplay.map((v, index) => (
