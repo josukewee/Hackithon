@@ -2,11 +2,11 @@ import {Box, Container, Text, Input} from "@chakra-ui/react"
 import {createFileRoute} from "@tanstack/react-router"
 import React, {useMemo} from "react";
 import {useQuery} from "@tanstack/react-query";
-import { MasonryVerticalVirtualizerVariable} from "../../components/VirtualGrid.tsx";
+import {MasonryVerticalVirtualizerVariable} from "../../components/VirtualGrid.tsx";
 
-export const Route = createFileRoute("/_layout/")({
-    component: Dashboard,
-})
+type CityDetailSearch = {
+    url: string
+}
 
 const useDebounce = (value: string, delay: number) => {
     const [debouncedValue, setDebouncedValue] = React.useState(value)
@@ -24,12 +24,25 @@ const useDebounce = (value: string, delay: number) => {
     return debouncedValue
 }
 
+
+export const Route = createFileRoute("/_layout/city-detail")({
+    component: Dashboard,
+    validateSearch: (search: Record<string, unknown>): CityDetailSearch => {
+        // validate and parse the search params into a typed state
+        return {
+            url: search.url as string,
+        }
+    },
+})
+
+
 function Dashboard() {
+    const { url } = Route.useSearch()
 
     const data = useQuery({
         queryKey: ["items"],
         queryFn: async () => {
-            const data = await fetch("http://localhost/api/v1/topics/")
+            const data = await fetch(url)
 
             if (data.ok) {
                 return await data.json()
@@ -48,35 +61,29 @@ function Dashboard() {
     const debouncedValue = useDebounce(searchValue, 200)
 
     const informationToDisplay = useMemo(() => {
-            if (data?.data) {
-                return data.data.filter((element: any) => {
-                        if (!element?.['název']?.['cs']) {
-                            return false
-                        }
+        const { informace } = data?.data || {}
+            if (informace?.length) {
+                return informace?.filter((element: any) => {
                         return element['název']['cs'].includes(debouncedValue)
                     }
                 )
             }
-            return []
         },
         [data.data, debouncedValue]
     )
 
-
     return (
         <>
-            <Container maxW="full" >
+            <Container maxW="full">
                 <Box pt={12} m={4}>
                     <Text fontSize="2xl">
                     </Text>
 
-                    <Input placeholder='Vyhledávání' value={searchValue} onInput={handleSearchInput}/>
+                    <Input placeholder='Basic usage' value={searchValue} onInput={handleSearchInput}/>
 
-
-                    {!!informationToDisplay.length && (
-                        <MasonryVerticalVirtualizerVariable rows={informationToDisplay.reverse()}/>
+                    {!!informationToDisplay?.length && (
+                        <MasonryVerticalVirtualizerVariable rows={informationToDisplay}/>
                     )}
-
                 </Box>
             </Container>
         </>

@@ -1,3 +1,4 @@
+from pydantic import BaseModel
 from sqlmodel import Field, Relationship, SQLModel
 
 
@@ -111,3 +112,53 @@ class TokenPayload(SQLModel):
 class NewPassword(SQLModel):
     token: str
     new_password: str
+
+
+
+"""
+    "informace": [
+        {
+            "typ": [
+                "Digitální objekt",
+                "Informace na úřední desce"
+            ],
+            "url": "https://www.kr-ustecky.cz/usneseni-z-40-rady-usteckeho-kraje-v-volebni-obdobi-2016-2020-konane-23-5-2018/d-1725339",
+            "iri": "https://www.kr-ustecky.cz/usneseni-z-40-rady-usteckeho-kraje-v-volebni-obdobi-2016-2020-konane-23-5-2018/d-1725339",
+            "název": {
+                "cs": "Usnesení z 40. Rady Ústeckého kraje - V. volební období 2016 - 2020, konané 23.5.2018"
+            },
+            "vyvěšení": {
+                "typ": "Časový okamžik",
+                "datum": "2018-05-31"
+            },
+            "relevantní_do": {
+                "typ": "Časový okamžik",
+                "nespecifikovaný": true
+            },
+            "dokument": [
+                {
+                    "typ": "Digitální objekt",
+                    "název": {
+                        "cs": "usneseni 40. RUK 23. 5. 2018 black"
+                    },
+                    "url": "https://www.kr-ustecky.cz/assets/File.ashx?id_org=450018&amp;id_dokumenty=1725340"
+                }
+            ]
+        },
+
+"""
+
+
+class Subject(BaseModel):
+    type: list[str]
+    url: str
+    iri: str
+    name: str
+    display: dict[str, str]
+    relevant: dict[str, str] | bool
+    document: list[dict[str, dict[str, str]]] | None
+
+
+class SubjectsListResponse(BaseModel):
+    data: list[Subject]
+    count: int
