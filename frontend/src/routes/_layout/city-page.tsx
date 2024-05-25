@@ -1,7 +1,7 @@
 import {Box, Container, Input} from "@chakra-ui/react";
 import {createFileRoute} from "@tanstack/react-router";
 import {useQuery} from "@tanstack/react-query";
-import React, {useMemo} from "react";
+import {useMemo} from "react";
 import {MapChart} from "../../components/MapComponent.tsx";
 
 async function fetchDatasets() {
@@ -59,16 +59,16 @@ function CityPage() {
             </Container>
             <Container maxW="container.lg">
 
-                <Grid templateColumns="repeat(auto-fill, minmax(250px, 1fr))" gap={6}>
-                    {/* Example News Items */}
-                    {dataToDisplay.map((v, index) => (
-                      <GridItem key={index} bg="white" p={4} borderRadius="md" boxShadow="md">
-                        <Heading as="h3" size="md" mt={4}>
-                            {v.title.cs}
-                        </Heading>
-                      </GridItem>
-                    ))}
-                </Grid>
+                {/*<Grid templateColumns="repeat(auto-fill, minmax(250px, 1fr))" gap={6}>*/}
+                {/*    /!* Example News Items *!/*/}
+                {/*    {dataToDisplay.map((v, index) => (*/}
+                {/*      <GridItem key={index} bg="white" p={4} borderRadius="md" boxShadow="md">*/}
+                {/*        <Heading as="h3" size="md" mt={4}>*/}
+                {/*            {v.title.cs}*/}
+                {/*        </Heading>*/}
+                {/*      </GridItem>*/}
+                {/*    ))}*/}
+                {/*</Grid>*/}
             </Container>
         </Box>
     )

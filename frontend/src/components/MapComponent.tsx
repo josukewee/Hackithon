@@ -1,4 +1,3 @@
-import React from "react";
 import {
     ComposableMap,
     Geographies,
@@ -420,7 +419,7 @@ const coordinates = [
 ]
 
 
-const coordinateToMarker = (coordinate) => {
+const coordinateToMarker = (coordinate: any) => {
     return {
         markerOffset: 15,
         name: coordinate.city,
@@ -443,9 +442,8 @@ export const MapChart = (
     }: Props) => {
 
 
-    const getoMatchesData = (name) => {
-        const listOfKeywords = data?.map((d) => d.keyword?.map((k) => k.cs)).flat()
-        console.log(listOfKeywords, data.map((d) => d.keywords))
+    const getoMatchesData = (name: string) => {
+        const listOfKeywords = data?.map((d) => d.keyword?.map((k: any) => k.cs)).flat()
         const el =  data.find((d) => d.title.cs.includes(name) || listOfKeywords.includes(name))
         return el
     }
@@ -471,7 +469,7 @@ export const MapChart = (
                 }
             </Geographies>
             {markers.map(({name, coordinates, markerOffset}) => getoMatchesData(name) ? (
-                <Marker key={name} coordinates={coordinates}>
+                <Marker key={name} coordinates={coordinates as [number, number]}>
                     <Link to={'/city-page?data=' + name}>
                         <g
                             fill="none"
