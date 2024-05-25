@@ -442,7 +442,7 @@ export const MapChart = (
     }: Props) => {
 
 
-    const getoMatchesData = (name: string) => {
+    const geoMatchedData = (name: string) => {
         const listOfKeywords = data?.map((d) => d.keyword?.map((k: any) => k.cs)).flat()
         const el =  data.find((d) => d.title.cs.includes(name) || listOfKeywords.includes(name))
         return el
@@ -468,9 +468,11 @@ export const MapChart = (
                     ))
                 }
             </Geographies>
-            {markers.map(({name, coordinates, markerOffset}) => getoMatchesData(name) ? (
+            {markers.map(({name, coordinates, markerOffset}) => geoMatchedData(name) ? (
                 <Marker key={name} coordinates={coordinates as [number, number]}>
-                    <Link to={'/city-page?data=' + name}>
+                    <Link to={'/city-detail' } search={{
+                        url: geoMatchedData(name)?.distribution?.[0]?.accessURL as string
+                    }}>
                         <g
                             fill="none"
                             stroke="#FF5533"
@@ -488,6 +490,7 @@ export const MapChart = (
                             style={{fontFamily: "system-ui", fill: "#5D5A6D"}}
                         >
                             {name}
+                            {/*{JSON.stringify(geoMatchedData(name))}*/}
                         </text>
                     </Link>
 

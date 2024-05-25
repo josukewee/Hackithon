@@ -15,6 +15,7 @@ import { Route as LayoutImport } from './routes/_layout'
 import { Route as LayoutIndexImport } from './routes/_layout/index'
 import { Route as LayoutItemsImport } from './routes/_layout/items'
 import { Route as LayoutCityPageImport } from './routes/_layout/city-page'
+import { Route as LayoutCityDetailImport } from './routes/_layout/city-detail'
 
 // Create/Update Routes
 
@@ -38,6 +39,11 @@ const LayoutCityPageRoute = LayoutCityPageImport.update({
   getParentRoute: () => LayoutRoute,
 } as any)
 
+const LayoutCityDetailRoute = LayoutCityDetailImport.update({
+  path: '/city-detail',
+  getParentRoute: () => LayoutRoute,
+} as any)
+
 // Populate the FileRoutesByPath interface
 
 declare module '@tanstack/react-router' {
@@ -45,6 +51,10 @@ declare module '@tanstack/react-router' {
     '/_layout': {
       preLoaderRoute: typeof LayoutImport
       parentRoute: typeof rootRoute
+    }
+    '/_layout/city-detail': {
+      preLoaderRoute: typeof LayoutCityDetailImport
+      parentRoute: typeof LayoutImport
     }
     '/_layout/city-page': {
       preLoaderRoute: typeof LayoutCityPageImport
@@ -65,6 +75,7 @@ declare module '@tanstack/react-router' {
 
 export const routeTree = rootRoute.addChildren([
   LayoutRoute.addChildren([
+    LayoutCityDetailRoute,
     LayoutCityPageRoute,
     LayoutItemsRoute,
     LayoutIndexRoute,
