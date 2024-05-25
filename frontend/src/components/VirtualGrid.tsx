@@ -1,5 +1,7 @@
 import {useVirtualizer} from "@tanstack/react-virtual";
-import React from "react";
+
+
+import React, {useCallback} from "react";
 
 
 export function MasonryVerticalVirtualizerVariable({rows}) {
@@ -16,6 +18,54 @@ export function MasonryVerticalVirtualizerVariable({rows}) {
         overscan: 5,
         lanes: 4,
     })
+
+    const virtualizedElement  = useCallback((virtualItem, index) => {
+            return (
+                <div
+                    key={index}
+                    data-index={index}
+                    className={virtualItem.index % 2 ? 'ListItemOdd' : 'ListItemEven'}
+                    style={{
+                        transform: `translateY(${virtualItem.start}px)`,
+                        position: 'absolute',
+                        top: 0,
+                        left: `${virtualItem.lane * 25}%`,
+                        width: '25%',
+                        height: `${virtualItem.size}px`,
+                        padding: '10px',
+                    }}
+                >
+                    <div style={{
+                        width: '100%',
+                        height: '100%',
+                        background: rows[virtualItem.index]['název']['cs'].includes("Oznámení") ? '#D266A7' : '#E6F491',
+                        borderRadius: '10px',
+                        boxShadow: '0 0 10px rgba(0,0,0,0.1)',
+                        padding: '10px'
+                    }}>
+                        <a href={rows[virtualItem.index]['url']} target={'_blank'}>
+                            <div style={{
+                                display: 'flex',
+                                flexFlow: 'column',
+                                height: '100%'
+                            }}>
+                                <span>
+                                    {rows[virtualItem.index]['název']['cs']}
+                                </span>
+
+                                <span style={{
+                                    marginTop: 'auto',
+                                    marginLeft: 'auto',
+                                }}>
+                                        {rows[virtualItem.index]['vyvěšení']['datum']}
+                                </span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+            )
+    }, [rows])
 
     return (
         <>
@@ -40,50 +90,9 @@ export function MasonryVerticalVirtualizerVariable({rows}) {
                         position: 'relative',
                     }}
                 >
-                    {rowVirtualizer.getVirtualItems().map((virtualItem, index) => (
-                        <div
-                            key={index}
-                            data-index={index}
-                            className={virtualItem.index % 2 ? 'ListItemOdd' : 'ListItemEven'}
-                            style={{
-                                transform: `translateY(${virtualItem.start}px)`,
-                                position: 'absolute',
-                                top: 0,
-                                left: `${virtualItem.lane * 25}%`,
-                                width: '25%',
-                                height: `${virtualItem.size}px`,
-                                padding: '10px',
-                            }}
-                        >
-                            <div style={{
-                                width: '100%',
-                                height: '100%',
-                                background: '#E6F491',
-                                borderRadius: '10px',
-                                boxShadow: '0 0 10px rgba(0,0,0,0.1)',
-                                padding: '10px'
-                            }}>
-                                <a href={rows[virtualItem.index]['název']['cs']}>
-                                    <div style={{
-                                        display: 'flex',
-                                        flexFlow: 'column',
-                                        height: '100%'
-                                    }}>
-                                <span>
-                                    {rows[virtualItem.index]['název']['cs']}
-                                </span>
-
-                                        <span style={{
-                                            marginTop: 'auto',
-                                            marginLeft: 'auto',
-                                        }}>
-                                        {rows[virtualItem.index]['vyvěšení']['datum']}
-                                </span>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    ))}
+                    {rowVirtualizer.getVirtualItems().map((virtualItem, index) => {
+                        return virtualizedElement(virtualItem, index)
+                    })}
                 </div>
             </div>
         </>
