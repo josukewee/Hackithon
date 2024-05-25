@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "hackiton-24"
+version = "0.1.0"
+description = ""
+authors = ["Skas Merkushin <skas.merkushin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+nltk = "^3.8.1"
+stopwordsiso = "^0.6.1"
+setuptools = "^70.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
