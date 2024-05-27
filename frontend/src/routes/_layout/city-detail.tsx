@@ -77,6 +77,7 @@ function Dashboard() {
             <Container maxW="full">
                 <Box pt={12} m={4}>
                     <Text fontSize="2xl">
+                        { data?.data?.title }
                     </Text>
 
                     <Input placeholder='Basic usage' value={searchValue} onInput={handleSearchInput}/>

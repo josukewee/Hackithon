@@ -4,7 +4,7 @@ import {useVirtualizer} from "@tanstack/react-virtual";
 import React, {useCallback} from "react";
 
 
-export function MasonryVerticalVirtualizerVariable({rows}) {
+export function MasonryVerticalVirtualizerVariable({rows}: { rows: any[] }) {
     const parentRef = React.useRef(null)
 
     const getRandomHeight = () => {
@@ -14,12 +14,12 @@ export function MasonryVerticalVirtualizerVariable({rows}) {
     const rowVirtualizer = useVirtualizer({
         count: rows.length,
         getScrollElement: () => parentRef.current,
-        estimateSize: (i) => getRandomHeight(),
+        estimateSize: () => getRandomHeight(),
         overscan: 5,
         lanes: 4,
     })
 
-    const virtualizedElement  = useCallback((virtualItem, index) => {
+    const virtualizedElement  = useCallback((virtualItem: any, index: any) => {
             return (
                 <div
                     key={index}

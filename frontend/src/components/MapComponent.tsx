@@ -451,10 +451,12 @@ export const MapChart = (
     return (
         <ComposableMap
             projection="geoAzimuthalEquidistant"
+            width={1200}
+            height={800}
             projectionConfig={{
                 rotate: [-15.0, -52.0, 0],
                 center: [0.3, -2],
-                scale: 10350,
+                scale: 15350,
             }}>
             <Geographies geography={geoUrl}>
                 {({geographies}) =>
