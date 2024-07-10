@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.12"
 nltk = "^3.8.1"
 stopwordsiso = "^0.6.1"
-setuptools = "^70.0.0"
+setuptools = "^70.3.0"
 
 
 [build-system]
