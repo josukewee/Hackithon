@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-nltk = "^3.8.1"
+nltk = "^3.8.2"
 stopwordsiso = "^0.6.1"
 setuptools = "^70.0.0"
 
